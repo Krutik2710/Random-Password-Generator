@@ -23,7 +23,7 @@ for i in range(0,nr_numbers):
     rand_password.append(numbers[r])
 
 print(rand_password)
-
+# krutik
 random.shuffle(rand_password)
 
 password = ""
