@@ -24,6 +24,7 @@ for i in range(0,nr_numbers):
 
 print(rand_password)
 # krutik
+# test
 random.shuffle(rand_password)
 
 password = ""
